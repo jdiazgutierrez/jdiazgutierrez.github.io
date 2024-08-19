@@ -1,28 +1,22 @@
 ---
 academia:
 - course:
-    degree: Postdoctoral Fellowship
-    institution: University of British Columbia
-    major: 
-    start_date: "2020"
-    end_date: "2024"
-- course:
     degree: Ph.D.
-    institution: University of Guelph
-    major: Population medicine
-    start_date: "2013"
-    end_date: "2016"
+    institution: University of Illinois at Urbana-Champaign
+    major: Agricultural and Applied Economics
+    start_date: "2020"
+    end_date: "2025 (expected)"
 - course:
     degree: M.Sc.
-    institution: Université de Montréal
-    major: Veterinary Sciences
-    start_date: "2011"
-    end_date: "2013"
+    institution: Universidad EAFIT
+    major: Economics
+    start_date: "2015"
+    end_date: "2015"
 - course:
-    degree: DVM
-    institution: Université de Montréal
-    start_date: "2006"
-    end_date: "2011"
+    degree: Economics
+    institution: Universidad Santo Tomás (Honours)
+    start_date: "2008"
+    end_date: "2012"
     
 degrees: 
 - DVM
@@ -38,7 +32,7 @@ affiliations:
 cv: cv.pdf
 date: "2022-04-29"
 draft: false
-full_name: José Denis-Robichaud
+full_name: Julian Diaz-Gutierrez
 headless: true
 interests:
 - Veterinary preventive medicine
