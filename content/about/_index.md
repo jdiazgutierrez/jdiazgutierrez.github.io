@@ -1,66 +1,66 @@
 ---
-title: "about"
-date: 2020-10-20T17:51:47+03:30
-draft: false
-headless: true
-
-full_name: "YOUR_NAME"
-profile_picture: "profile.png"
-cv: "cv.pdf"
-# set to false if you don't want to show your blog
-blog: true
-
-socials:
-    twitter: "YOUR_NAME"
-    github: "YOUR_NAME"
-    facebook: "YOUR_NAME"
-    linkedin: "YOUR_NAME"
-    twitch: "YOUR_NAME"
-    google_scholar: "YOUR_NAME"
-
-interests:
-    - Data Intensive Systems
-    - Distributed Systems
-    - Data Streaming Platforms
-    - Large-Scale Data Processing Platforms
+academia:
+- course:
+    degree: Postdoctoral Fellowship
+    institution: University of British Columbia
+    major: 
+    start_date: "2020"
+    end_date: "2024"
+- course:
+    degree: Ph.D.
+    institution: University of Guelph
+    major: Population medicine
+    start_date: "2013"
+    end_date: "2016"
+- course:
+    degree: M.Sc.
+    institution: Université de Montréal
+    major: Veterinary Sciences
+    start_date: "2011"
+    end_date: "2013"
+- course:
+    degree: DVM
+    institution: Université de Montréal
+    start_date: "2006"
+    end_date: "2011"
+    
+degrees: 
+- DVM
+- MSc
+- PhD
+- DACVPM
 
 affiliations:
-    - affiliation:
-        title: "Ph.D."
-        name: "Stanford University"
-        email: "email@cs.stanford.edu"
-    - affiliation:
-        title: "CEO & Co-Founder"
-        name: "The Coolest Startup In the World"
-        email: "email@mycoolstartup.ai"
+- affiliation:
+    email: josedr@hotmail.ca
+    name: Veterinary preventive medicine and epidemiology consulting
+    title: Founder & Principal Consultant
+cv: cv.pdf
+date: "2022-04-29"
+draft: false
+full_name: José Denis-Robichaud
+headless: true
+interests:
+- Veterinary preventive medicine
+- Epidemiology
+- Animal health and physiology
+- One Health and public health 
+- Methodology and biostatistics
 
-academia:
-    - course:
-        degree: "Ph.D."
-        institution:  "Stanford University"
-        major: "Data Systems"
-        start_date: "2021"
-    - course:
-        degree: "M.Sc."
-        institution: 'Sharif University of Technology'
-        major: 'Software Engineering'
-        start_date: '2013'
-        end_date: '2016'
-        other_info: 'graduated without first class honor, supervised by Prof. Very Cool!'
-    - course:
-        degree: "B.Sc."
-        institution: 'University of Kashan'
-        major: 'Software Engineering'
-        minor: 'Statistics'
-        start_date: '2009'
-        end_date: '2013'
-        other_info: 'graduated with first class honor, supervised by Prof.  Cool!'
+profile_picture: profile.png
+
+socials:
+  linkedin: "jose-denis-robichaud"
+  google_scholar: "citations?user=I-jVqu8AAAAJ&hl=en"
+  instagram: "nomadinthewind"
+  github: "josedenisrobichaud" 
+  orcid: "0000-0002-7742-0631"
+  lens: "549561403"
+  dataverse: "josedr"
+
+
+title: about
 ---
 
-**Donec** sollicitudin, [ante][1] pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, tincidunt sed mi. In at dui lectus. Integer ante arcu, vestibulum fermentum ante eu, maximus maximus quam. Curabitur placerat cursus posuere. Phasellus dui lorem, varius a augue non, eleifend accumsan mauris. Aenean varius posuere feugiat. In hac habitasse platea dictumst. Aenean quis ex quis nisl consequat fermentum in vitae nunc. Proin consectetur ac nulla in tempus. Maecenas enim nisi, pulvinar sit amet fermentum eget, ultrices vitae enim. Etiam vel sollicitudin felis.
+I am a veterinary epidemiologist researcher, a diplomate of the American College of Veterinary Preventive Medicine ([ACVPM](https://acvpm.org/default.aspx)), and associate member of the GREZOSP ([Groupe de Recherche en Épidémiologie des Zoonoses et Santé Publique](http://grezosp.com)). I am working with multiple research groups with the ultimate goal to integrate the One Health concepts into diverse contexts, from population animal health to public health. 
 
-
-Donec sollicitudin, ante pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, 
-
-
-[1]: ahadsfsa.com

@@ -1,40 +1,32 @@
 ---
-title: "news"
-date: 2020-11-20T17:51:47+03:30
+date: "2023-06-01T17:51:47+03:30"
+default_news_icon: file-text
 draft: false
 headless: true
-
-# all icons by [feathericons.com](https://https://feathericons.com//) are supported
-show_news_icons: true
-default_news_icon: "file-text"
-
-num_news: 5
-
 news_items:
-- text: "I joined [The Coolest Startup in the World](https://goodluck.com) as the CEO"
-  extra_text: "August 2023."
-  date: 2023-11-20
-- text: "How to deploy in the era of cloud services?"
-  link: https://https://feathericons.com//
-  extra_text: "Software Engineering Daily Podcast, Feb. 2021."
-  date: 2022-11-20
-- text: "Past, present and future of decentralized computing"
-  link: https://https://feathericons.com//
-  extra_text: "The New York Times, Feb. 2020."
-  date: 2021-11-20
-- text: "How to give a communicative research talk?"
-  link: "/en/talks/how-to-give-a-communicative-research-talk/"
-  extra_text: "Software Engineering Daily Podcast, Jan. 2020."
-  icon: "youtube"
-  date: 2020-11-20
-- text: "The new era of software engineering"
-  link: https://https://feathericons.com//
-  extra_text: "Software Engineering Daily Podcast, Jan. 2020."
-  icon: "youtube"
-  date: 2020-11-20
-- text: "How to write a good paper?"
-  link: https://https://feathericons.com//
-  extra_text: "HotOS'19."
-  icon: "youtube"
-  date: 2020-11-20
+- date: "2023-04-05"
+  extra_text: (FR) avril 2023 - canaux de communication Une Seule Santé.
+  icon: youtube
+  link: https://youtu.be/JRG9YxX1tX8
+  text: Conférence web CP-EPITER
+- date: "2023-11-01"
+  extra_text: (FR) novembre 2023 - en collaboration avec Les Producteurs Laitiers du Canada.
+  icon: mic
+  link: https://open.spotify.com/episode/76AgdPJaQDrXoxpTNhaVJU?si=KpSraQQQQ2S5k3781Kq9Iw
+  text: Balado sur la santé des sols avec Marie-Élise Samson
+- date: "2023-11-02"
+  extra_text: (FR) novembre 2023 - en collaboration avec Les Producteurs Laitiers du Canada.
+  icon: mic
+  link: https://open.spotify.com/episode/76AgdPJaQDrXoxpTNhaVJU?si=KpSraQQQQ2S5k3781Kq9Iw
+  text: Balado sur l'exercice et le mouvement pour les vaches laitières
+- date: "2022-03-21"
+  extra_text: (FR) mars 2022 - Du coq à l'âne.
+  icon: film
+  link: https://baladoquebec.ca/du-coq-a-l-ane-le-podcast-des-docteurs-embetants/episode-12-dre-jose-denis-robichaud-veterinaire-vaches-vent-vagues-van-life-voila
+  text: Eclectic podcast about my path from veterinarian to epidemiologist
+
+  
+num_news: 5
+show_news_icons: true
+title: news
 ---

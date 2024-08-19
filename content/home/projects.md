@@ -8,7 +8,11 @@ content_type: "projects"
 section_settings:
     show_section: true
     title: ''
-    subtitle: 'Custom Subtitle: see my github for the complete list'
+    subtitle: 'Current collaborations'
 ---
 
 home/projects.md
+
+
+
+

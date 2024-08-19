@@ -30,6 +30,27 @@
       <description></description>
     </item>
     <item>
+      <title>Plot</title>
+      <link>http://localhost:1313/tags/plot/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>http://localhost:1313/tags/plot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R Markdown</title>
+      <link>http://localhost:1313/tags/r-markdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>http://localhost:1313/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Regression</title>
+      <link>http://localhost:1313/tags/regression/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>http://localhost:1313/tags/regression/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Ml</title>
       <link>http://localhost:1313/tags/ml/</link>
       <pubDate>Tue, 12 May 2020 16:11:56 -0700</pubDate>

@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-06-01T17:51:47+03:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2021-01-11T16:12:29-07:00</lastmod>
   </url><url>
@@ -9,9 +12,6 @@
     <lastmod>2021-01-11T16:12:29-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/deep_learning/</loc>
-    <lastmod>2021-01-11T16:12:29-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2021-01-11T16:12:29-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/neural_networks/</loc>
@@ -22,6 +22,24 @@
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2021-01-11T16:12:29-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2020-12-01-r-rmarkdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/plot/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/r/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/regression/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/blog3/</loc>
     <lastmod>2020-05-12T16:11:56-07:00</lastmod>
@@ -46,7 +64,5 @@
   </url><url>
     <loc>http://localhost:1313/blog/blog1/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
