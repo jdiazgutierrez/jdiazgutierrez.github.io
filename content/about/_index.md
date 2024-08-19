@@ -11,35 +11,29 @@ academia:
     institution: Universidad EAFIT
     major: Economics
     start_date: "2015"
-    end_date: "2015"
+    end_date: "2016"
 - course:
     degree: Economics
     institution: Universidad Santo Tomás (Honours)
     start_date: "2008"
     end_date: "2012"
     
-degrees: 
-- DVM
-- MSc
-- PhD
-- DACVPM
-
 affiliations:
 - affiliation:
-    email: josedr@hotmail.ca
-    name: Veterinary preventive medicine and epidemiology consulting
-    title: Founder & Principal Consultant
+    email: juliand3@illinois.edu
+    name: Department of Agricultural and Consumer Economics
+    title: PhD Candidate
 cv: cv.pdf
 date: "2022-04-29"
 draft: false
 full_name: Julian Diaz-Gutierrez
 headless: true
 interests:
-- Veterinary preventive medicine
-- Epidemiology
-- Animal health and physiology
-- One Health and public health 
-- Methodology and biostatistics
+- Health Economics
+- Labor Economics
+- International Trade
+- Environmental Economics
+- Economics of Crime
 
 profile_picture: profile.png
 
