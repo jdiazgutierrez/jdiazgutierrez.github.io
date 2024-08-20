@@ -1,7 +1,7 @@
 ---
 date: "2023-06-01T17:51:47+03:30"
 default_news_icon: file-text
-draft: false
+draft: true
 headless: true
 news_items:
 - date: "2023-04-05"
