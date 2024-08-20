@@ -10,7 +10,7 @@ enableEmoji = true
 theme = "avicenna"
 
 # This is your page title, it appears in your tab
-title = "José Denis-Robichaud"
+title = "Julian Diaz-Gutierrez"
 
 # number of posts to show on the blog page
 paginate = 10
@@ -28,7 +28,7 @@ startLevel = 1
 
 [params]
 # it is used for the copy-right section of your page
-name = "José Denis-Robichaud"
+name = "Julian Diaz-Gutierrez"
 
 # used favicon image 
 Favicon = "favicon.ico"
