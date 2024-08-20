@@ -7,8 +7,8 @@ weight: 6
 content_type: 'publications'
 section_settings:
     show_section: true
-    title: 'Recent Publications'
-    subtitle: See my Google Scholar for the complete list    
+    title: 'Publications'
+    subtitle: ''    
 ---
 
 home/publications.md
