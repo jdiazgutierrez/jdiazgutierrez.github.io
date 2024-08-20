@@ -2,7 +2,7 @@
 date: "2023-06-01T17:51:47+03:30"
 default_news_icon: file-text
 draft: true
-headless: false
+headless: true
 news_items:
 - date: "2023-04-05"
   extra_text: (FR) avril 2023 - canaux de communication Une Seule Santé.
