@@ -1,39 +1,15 @@
 ---
-academia:
-- course:
-    degree: Ph.D.
-    institution: University of Illinois
-    major: Agricultural and Applied Economics
-    start_date: "2020"
-    end_date: "2025 (expected)"
-- course:
-    degree: M.Sc.
-    institution: Universidad EAFIT
-    major: Economics
-    start_date: "2015"
-    end_date: "2016"
-- course:
-    degree: B.A. Economics
-    institution: Universidad Santo Tomás (Honours)
-    start_date: "2008"
-    end_date: "2012"
     
 affiliations:
 - affiliation:
     email: juliand3@illinois.edu
-    name: Department of Agricultural and Consumer Economics, University of Illinois
+    name: Agricultural and Applied Economics, University of Illinois
     title: Ph.D. Candidate
 cv: cv.pdf
 date: "2022-04-29"
 draft: false
 full_name: Julian Diaz-Gutierrez
 headless: true
-interests:
-- Health Economics
-- Labor Economics
-- International Trade
-- Environmental Economics
-- Economics of Crime
 
 profile_picture: profile.png
 
