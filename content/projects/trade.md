@@ -6,6 +6,6 @@ summary: "This paper investigates the effect of a structural tariff reform on su
 date: "2023-05-30"
 
 links:
-    Download paper: 'https://espum.umontreal.ca/'
+    Download paper: 'https://jdiazgutierrez.github.io/_working-papers/2yp_Diaz.pdf'
 ---
 

@@ -5,6 +5,6 @@ summary: "Abstract: Over the last three decades, there has been a rapid increase
 date: "2024-10-15"
 
 links:
-    download paper: 
+    download paper: 'https://jdiazgutierrez.github.io/_working-papers/draft_robots_mex.pdf'
 
 ---
