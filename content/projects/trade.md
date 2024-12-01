@@ -6,6 +6,6 @@ summary: "Abstract: This paper investigates the effect of a structural tariff re
 date: "2023-05-30"
 
 links:
-    Download paper: 'https://jdiazgutierrez.github.io/_working-papers/2yp_Diaz.pdf'
+    Download paper: 'https://jdiazgutierrez.github.io/papers/2yp_Diaz.pdf'
 ---
 

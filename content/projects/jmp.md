@@ -5,6 +5,6 @@ summary: "Abstract: In this paper, I investigate the impact of increased robotic
 date: "2024-10-15"
 
 links:
-    download paper: 'https://jdiazgutierrez.github.io/_working-papers/draft_robots_mex.pdf'
+    download paper: 'https://jdiazgutierrez.github.io/papers/draft_robots_mex.pdf'
 
 ---
