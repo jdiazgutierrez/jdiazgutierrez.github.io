@@ -23,7 +23,7 @@ socials:
 title: about
 ---
 
-I am an applied microeconomist interested in development, labor, health, and international economics.
+I am an applied microeconomist interested in development, labor, health, environmental, and international economics.
 
 Prior to joining the [University of Illinois](https://ace.illinois.edu/academics/graduate-degrees/doctor-philosophy-agricultural-and-applied-economics), I worked as a research analyst for the Office of the Chief Economist for Latin America and the Caribbean at the [World Bank](https://www.worldbank.org/en/region/lac/brief/lac-chief-economist), the Department of Economics at [Universidad EAFIT](https://www.eafit.edu.co/economiayfinanzas), and the [Centro de Estudios Regionales del Magdalena Medio (CER)](https://cer.org.co/).
 
