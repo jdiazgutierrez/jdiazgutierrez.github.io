@@ -24,3 +24,6 @@ title: about
 ---
 
 I am an applied microeconomist specializing in development, labor, health, environmental, and international economics. Previously, I worked as a research analyst at the [World Bank](https://www.worldbank.org/en/region/lac/brief/lac-chief-economist) in the Office of the Chief Economist for Latin America and the Caribbean, as well as with the Department of Economics at [Universidad EAFIT](https://www.eafit.edu.co/economiayfinanzas) and the [Centro de Estudios Regionales del Magdalena Medio (CER)](https://cer.org.co/). My research focuses on understanding the economic forces shaping labor markets, health outcomes, and development, particularly in Latin America.
+
+I will be on the job market for the 2025-2026 academic year.
+
