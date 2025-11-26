@@ -32,9 +32,3 @@ I am an applied microeconomist with research interests in health, development, a
 Previously, I worked as a Research Analyst at the [World Bank](https://www.worldbank.org/en/region/lac/brief/lac-chief-economist) in the Office of the Chief Economist for Latin America and the Caribbean, as well as with the Department of Economics at [Universidad EAFIT](https://www.eafit.edu.co/economiayfinanzas) and the [Centro de Estudios Regionales del Magdalena Medio (CER)](https://cer.org.co/).
 
 **[Download my CV](cv.pdf)**.
-
-## Work in progress
-
-- **The Impacts of U.S. Immigration Policy on Fertility in Mexico** (with Mary Arends-Kuenning)
-- **Long-Term Effects of Student Mobilizations on Academic Achievement and Labor Participation in Colombia** (with Angelica Sanchez-Diaz)
-- **Land Demining and Mental Health in Colombia**

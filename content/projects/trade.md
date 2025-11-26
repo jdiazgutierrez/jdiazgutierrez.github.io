@@ -9,3 +9,12 @@ links:
     Download paper: 'https://jdiazgutierrez.github.io/papers/tariffs_substances.pdf'
 ---
 
+## Work in Progress
+
+**The Impacts of U.S. Immigration Policy on Fertility in Mexico**  
+*with Mary Arends-Kuenning*
+
+**Long-Term Effects of Student Mobilizations on Academic Achievement and Labor Participation in Colombia**  
+*with Angelica Sanchez-Diaz*
+
+**Land Demining and Mental Health in Colombia**
