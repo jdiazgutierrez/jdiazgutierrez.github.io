@@ -4,7 +4,7 @@ affiliations:
 - affiliation:
     email: juliand3@illinois.edu
     name: Agricultural and Applied Economics, University of Illinois
-    title: #PhD Candidate
+    title: PhD Candidate
 cv: cv.pdf
 date: "2022-04-29"
 draft: false
@@ -22,6 +22,8 @@ socials:
 
 title: about
 ---
+
+Welcome to my website!
 
 I am a PhD candidate in Agricultural and Applied Economics at the University of Illinois Urbana-Champaign, expecting to graduate in May 2026. I am on the job market for the 2025-2026 academic year.
 
