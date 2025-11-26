@@ -33,3 +33,8 @@ Previously, I worked as a Research Analyst at the [World Bank](https://www.world
 
 **[Download my CV](cv.pdf)**.
 
+## Work in Progress
+
+- **The Impacts of U.S. Immigration Policy on Fertility in Mexico** (with Mary Arends-Kuenning)
+- **Long-Term Effects of Student Mobilizations on Academic Achievement and Labor Participation in Colombia** (with Angelica Sanchez-Diaz)
+- **Land Demining and Mental Health in Colombia**
