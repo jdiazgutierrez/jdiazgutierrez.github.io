@@ -29,19 +29,19 @@
                 {{ $authors := $page.Params.authors }}
 
                 {{ if $authors }}
-                {{range $i, $author := $authors}}
-                <span>
-                    {{$author}}
-                </span>
-                {{ if lt $i (sub (len $authors) 1)}}
-                <span class="separator">
-                    ,
-                </span>
-                {{end}}
-                {{end}}
+                (with {{ range $i, $a := $authors }}{{ if $i }}, {{ end }}{{ if $a.url }}<a href="{{ $a.url }}" target="_blank">{{ $a.name }}</a>{{ else }}{{ $a.name }}{{ end }}{{ end }})
                 {{end}}
 
             </div>
+
+            {{ if $page.Params.summary }}
+            <div class="section-abstract w-100">
+                <details>
+                    <summary class="main_color">Abstract</summary>
+                    <p class="text-muted">{{ $page.Params.summary }}</p>
+                </details>
+            </div>
+            {{ end }}
 
             {{ $links := $page.Params.links }}
             {{ if $links }}

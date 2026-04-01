@@ -12,8 +12,13 @@
                 <span class="project-title">
                     {{$page.Params.title}}
                 </span>
+                {{ if $page.Params.authors }}
+                <span class="project-authors text-muted">
+                    (with {{ range $i, $a := $page.Params.authors }}{{ if $i }}, {{ end }}{{ if $a.url }}<a href="{{ $a.url }}" target="_blank">{{ $a.name }}</a>{{ else }}{{ $a.name }}{{ end }}{{ end }})
+                </span>
+                {{ end }}
             </div>
-            
+
             <div class="section-1 w-100 text-muted">
                 <span class="project-summary">
                   {{$page.Params.summary}}
