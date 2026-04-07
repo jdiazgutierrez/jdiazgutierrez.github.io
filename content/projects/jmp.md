@@ -4,6 +4,8 @@ summary: "Abstract: In this paper, I investigate the impact of increased robotic
 
 date: "2024-10-15"
 
+presentations: "<em>2026:</em> World Bank LAC Chief Economist Office & LACEA Labor Network Conference on Technological Change and Labor Markets in LAC, Washington, DC. <em>2025:</em> Midwest International Economic Development Conference, UIUC; International Policy and Development (IPAD) Workshop, UIUC; WELAC (LACEA) Workshop on Gender and Household Economics, Lima, Peru. <em>2024:</em> International Policy and Development (IPAD) Workshop, UIUC."
+
 links:
     download paper: 'https://jdiazgutierrez.github.io/papers/draft_robots_mex.pdf'
 

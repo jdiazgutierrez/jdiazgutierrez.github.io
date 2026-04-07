@@ -26,6 +26,12 @@
             </div>
            
 
+            {{ if $page.Params.presentations }}
+            <div class="section-presentations w-100 text-muted" style="margin-top: 0.3em; font-size: 0.9em;">
+                <strong>Presented at:</strong> {{ $page.Params.presentations | safeHTML }}
+            </div>
+            {{ end }}
+
             {{ $links := $page.Params.links }}
             {{ if $links }}
             <div class="section-2  w-100">
