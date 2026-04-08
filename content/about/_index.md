@@ -17,6 +17,7 @@ socials:
   google_scholar: "citations?user=Q1usxTQAAAAJ&hl=en"
   github: "jdiazgutierrez" 
   twitter: "jdiazgu90"
+  linkedin: "juliandiazgutierrez"
   
 
 
@@ -31,4 +32,4 @@ I am an applied microeconomist with research interests in health, development, a
 
 Previously, I worked as a Research Analyst at the [World Bank](https://www.worldbank.org/en/region/lac/brief/lac-chief-economist) in the Office of the Chief Economist for Latin America and the Caribbean, as well as with the Department of Economics at [Universidad EAFIT](https://www.eafit.edu.co/economiayfinanzas) and the [Centro de Estudios Regionales del Magdalena Medio (CER)](https://cer.org.co/).
 
-**[Download my CV](cv.pdf)**.
+**[Download my CV](cv.pdf)**
