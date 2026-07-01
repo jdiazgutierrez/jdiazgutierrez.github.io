@@ -3,7 +3,7 @@
 affiliations:
 - affiliation:
     email: juliand3@illinois.edu
-    name: Agricultural and Applied Economics, University of Illinois
+    name: University of Illinois Urbana-Champaign
     title: PhD in Agricultural and Applied Economics
 cv: cv.pdf
 date: "2022-04-29"
